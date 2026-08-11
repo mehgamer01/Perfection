@@ -2,8 +2,9 @@
   "approved_devices": [
     "3371eeb5a69ab2b1",
     "3372a0f13ddae7f6",
-    "e64843c5697d089a"
- ],
+    "e64843c5697d089a",
+    "cc61447c40b0cdef"
+  ],
   "blocked_devices": [
     "blocked111device",
     "blocked222device"
